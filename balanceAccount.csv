@@ -1,4 +1,0 @@
-account_no,document_type_code,company_code,operational_account_number,profit_centre,management_product_code,trading_partner,line_item_type,fiscal_year,fiscal_period,amount,transaction_currency_code,transaction_type,additional_info,business_date,rule_index,source_system_id,balance_income_type,pdp_product_description,eom_bus_dte
-101125,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2020,12,394.93,GBP,NULL,NULL,20210111,ALOC_RULE_99_PT,NULL,AVG_BALANCE,PDP510025,1/31/2021
-101125,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2020,12,2378.31,GBP,NULL,NULL,20210111,ALOC_RULE_99_PT,NULL,AVG_BALANCE,PDP510017,1/31/2021
-101125,NULL,NULL,NULL,NULL,NULL,NULL,NULL,2020,12,80000.15,GBP,NULL,NULL,20210111,ALOC_RULE_99_PT,NULL,AVG_BALANCE,PDP510025,1/31/2021
